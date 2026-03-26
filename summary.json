@@ -1,0 +1,10 @@
+{
+  "total_sales": 381,
+  "total_revenue": 11562.47,
+  "avg_order_value": 30.34769028871391,
+  "date_range": {
+    "start": "01/01/26",
+    "end": "12/31/25",
+    "days": 0
+  }
+}

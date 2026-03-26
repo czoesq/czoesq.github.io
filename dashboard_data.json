@@ -1,0 +1,181 @@
+{
+  "total_sales": 381,
+  "total_revenue": 11562.47,
+  "avg_order_value": 30.34769028871391,
+  "date_range": {
+    "start": "2025-02-02T00:00:00",
+    "end": "2026-03-22T00:00:00",
+    "days": 413
+  },
+  "top_products": [
+    {
+      "title": "Love Thy Neighbor Shirt, Liberal Christian Love Li...",
+      "full_title": "Love Thy Neighbor Shirt, Liberal Christian Love Like Jesus, Subtle FDT Anti Trump, Social Justice Human Rights Equality Shirt Comfort Colors",
+      "sales": 22,
+      "revenue": 637.87,
+      "velocity": 0.0
+    },
+    {
+      "title": "Stoner Girl Tee, Cannabis Comfort Colors, Canna Mo...",
+      "full_title": "Stoner Girl Tee, Cannabis Comfort Colors, Canna Mom Gift, 420 Weed Shirt, Marijuana Shirt, Stoner Gift, \"Gardener\" Shirt, Budtender Tshirt",
+      "sales": 16,
+      "revenue": 466.91999999999996,
+      "velocity": 0.0
+    },
+    {
+      "title": "Ghost FDT Shirt, Foxglove Daisy Tulip, Subtle Anti...",
+      "full_title": "Ghost FDT Shirt, Foxglove Daisy Tulip, Subtle Anti Trump Tee, Halloween Protest, FDT Flower Shirt, Boho Floral Ghost T-shirt, Comfort Colors",
+      "sales": 16,
+      "revenue": 489.3,
+      "velocity": 0.0
+    },
+    {
+      "title": "Cheesehead Shirt, Packers Fan Comfort Colors Tshir...",
+      "full_title": "Cheesehead Shirt, Packers Fan Comfort Colors Tshirt, Funny Green Bay Packers Lover Gift, White Elephant Gift for Cheese Lovers",
+      "sales": 16,
+      "revenue": 460.52,
+      "velocity": 0.0
+    },
+    {
+      "title": "Indigenous Rights Shirt, Land Back, Stolen Land Th...",
+      "full_title": "Indigenous Rights Shirt, Land Back, Stolen Land Thanksgiving Tshirt, Decolonize Thanksgiving Political Statement Tee, Native Solidarity Gift",
+      "sales": 15,
+      "revenue": 439.62,
+      "velocity": 0.0
+    },
+    {
+      "title": "Fuck Trump Christmas Shirt, Not-So Subtle Anti-Tru...",
+      "full_title": "Fuck Trump Christmas Shirt, Not-So Subtle Anti-Trump FDT Xmas Tshirt, Hidden Message Liberal Protest Tee, Political Holiday Comfort Colors",
+      "sales": 15,
+      "revenue": 440.03999999999996,
+      "velocity": 0.0
+    },
+    {
+      "title": "Love Thy Neighbor Sweatshirt, Liberal Christian Cr...",
+      "full_title": "Love Thy Neighbor Sweatshirt, Liberal Christian Crewneck Love Like Jesus, Subtle FDT Anti Trump, Social Justice Human Rights Equality Shirt",
+      "sales": 14,
+      "revenue": 630.32,
+      "velocity": 0.0
+    },
+    {
+      "title": "Christmas Anti Trump Shirt, Festive Goose Liberal ...",
+      "full_title": "Christmas Anti Trump Shirt, Festive Goose Liberal Protest, Subtle FDT, Abolish ICE, Eat the Rich, Gift for Activist, Leftist Comfort Colors",
+      "sales": 14,
+      "revenue": 412.59,
+      "velocity": 0.0
+    },
+    {
+      "title": "Funny Jesus Shirt, Satirical Christian Shirt, Deco...",
+      "full_title": "Funny Jesus Shirt, Satirical Christian Shirt, Deconstruct Tee, Religious Trauma Tee, Liberal Christian Tee, Liberal Faith, Comfort Colors",
+      "sales": 12,
+      "revenue": 372.32,
+      "velocity": 0.0
+    },
+    {
+      "title": "Funny Jesus Shirt, Satirical Christian Shirt, Deco...",
+      "full_title": "Funny Jesus Shirt, Satirical Christian Shirt, Deconstruct Tee, Religious Trauma Tee, Liberal Christian Gift, Liberal Faith, Comfort Colors",
+      "sales": 11,
+      "revenue": 321.12,
+      "velocity": 0.0
+    }
+  ],
+  "monthly_data": [
+    {
+      "month": "2025-02",
+      "sales": 5,
+      "revenue": 168.0
+    },
+    {
+      "month": "2025-03",
+      "sales": 1,
+      "revenue": 46.1
+    },
+    {
+      "month": "2025-04",
+      "sales": 2,
+      "revenue": 67.2
+    },
+    {
+      "month": "2025-05",
+      "sales": 1,
+      "revenue": 33.6
+    },
+    {
+      "month": "2025-06",
+      "sales": 7,
+      "revenue": 235.20000000000002
+    },
+    {
+      "month": "2025-07",
+      "sales": 5,
+      "revenue": 185.5
+    },
+    {
+      "month": "2025-08",
+      "sales": 6,
+      "revenue": 226.60000000000002
+    },
+    {
+      "month": "2025-09",
+      "sales": 20,
+      "revenue": 611.1
+    },
+    {
+      "month": "2025-10",
+      "sales": 32,
+      "revenue": 978.78
+    },
+    {
+      "month": "2025-11",
+      "sales": 80,
+      "revenue": 2338.52
+    },
+    {
+      "month": "2025-12",
+      "sales": 92,
+      "revenue": 2764.93
+    },
+    {
+      "month": "2026-01",
+      "sales": 70,
+      "revenue": 2082.9
+    },
+    {
+      "month": "2026-02",
+      "sales": 39,
+      "revenue": 1213.2
+    },
+    {
+      "month": "2026-03",
+      "sales": 21,
+      "revenue": 610.8399999999999
+    }
+  ],
+  "price_distribution": [
+    {
+      "range": "$10-$20",
+      "sales": 1,
+      "revenue": 12.44
+    },
+    {
+      "range": "$20-$30",
+      "sales": 274,
+      "revenue": 7920.7
+    },
+    {
+      "range": "$30-$40",
+      "sales": 69,
+      "revenue": 2235.27
+    },
+    {
+      "range": "$40+",
+      "sales": 31,
+      "revenue": 1352.3000000000002
+    },
+    {
+      "range": "Under $10",
+      "sales": 6,
+      "revenue": 41.760000000000005
+    }
+  ]
+}
